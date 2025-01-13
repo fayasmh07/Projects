@@ -1,7 +1,7 @@
 # SKYFALL - SECURITY BLUETEAM 
 
-Done this *PROJECT* as a part of the *INTRODUCTION TO OSINT*  Course from Security Blue Team.
-The task is provided below.
+Done this **PROJECT** as a part of the **INTRODUCTION TO OSINT**  Course from Security Blue Team.
+The task is provided below:
 
 ---
 
@@ -9,5 +9,5 @@ You work for a law enforcement organisation, and you have been assigned to track
 
 Your manager has provided you with the following starting information:
 
-Twitter handle used by actor: *@sp1ritfyre*
+Twitter handle used by actor: **@sp1ritfyre**
 You can download a list of the information you have been asked to retrieve about the subject (.txt file). You should use this to help you find the right information, ready to hand in during the Challenge Submission in the next lesson. This will help to keep you on track, and not gather information that is not relevant to the current investigation.
