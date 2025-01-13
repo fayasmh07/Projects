@@ -2,4 +2,5 @@
   PROJECTS
 </h1>
 
-![image](https://github.com/user-attachments/assets/143a38e7-e44e-478e-a921-c0a391dbf527)
+![ProjectManagement](https://github.com/user-attachments/assets/b2de41f6-11c0-4945-a678-1e20e6eeb4bc)
+
