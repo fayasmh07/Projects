@@ -1,3 +1,3 @@
 <h1 align=center>
-  OSINT Projects
+  OSINT PROJECTS
 </h1>
