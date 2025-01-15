@@ -1,5 +1,5 @@
 <h1 align=center>
-  Network Analysis Challenge
+  NETWORK ANALYSIS CHALLENGE
 </h1>
 
 This project is done as a part of the **INTRODUCTION TO NETWORK ANALYSIS** Course.
