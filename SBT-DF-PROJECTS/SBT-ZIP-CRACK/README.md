@@ -2,6 +2,10 @@
   SBT ZIP CRACK
 </h1>
 
-To help get you familiar with using Steghide, we have created a short quiz consisting of 4 questions. For this activity, you’ll need to download our test environment consisting of directories and files. Download this .ZIP file inside your Kali VM (click the button below, then the download icon in the top right corner) and unzip it using “unzip SBT_Steg_Lab.zip”. Below are the questions you’ll be asked in the quiz, so make sure you have your answers ready.
+To help get you familiar with fcrackzip, we have created a short quiz consisting of 4 questions. In this activity, you’ll be cracking the passwords of two ZIP files. One using a brute-force attack, and one using a dictionary attack.
 
-When working on Questions 2, 3, and 4 you’ll need to attempt to extract embedded files with the passphrase list below. If the file does not have hidden data using that password, it will print an error message as shown in the below screenshot. You should attempt to use each passphrase on each file. Not all files will contain hidden files. Eventually you will have extracted three text files named FLAG1.txt, FLAG2.txt, and FLAG3.txt which will contain the flag values you need to answer these questions correctly.
+BruteForceAttack.zip – You are to brute-force this ZIP file using fcrackzip. Once you have the password, extract the text file FLAG1.txt and enter the text string as your answer for the quiz. For this file, you have been informed that the password is 6 characters long, and contains only lowercase letters, and numbers. (Time to crack approx 5mins 30secs)
+DictionaryAttack.zip – You are to brute-force this ZIP file using fcrackzip and the rockyou.txt wordlist. Once you have the password, extract the text file FLAG2.txt and enter the text string as your answer for the quiz. (Time to crack approx 3 mins)
+If your attempts are taking significantly longer than the stated approximate times, reconsider the command you are using, and make sure you’re following the brief above. The above times are based on a 2017 MacBook Pro.)
+
+
